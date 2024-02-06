@@ -1,0 +1,29 @@
+.elementor-67 .elementor-element.elementor-element-8911d83{--iteration-count:infinite;--animation-duration:1200ms;--dynamic-text-color:#020101;}.elementor-67 .elementor-element.elementor-element-8911d83 .elementor-headline{text-align:center;font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-67 .elementor-element.elementor-element-8911d83 .elementor-headline-dynamic-wrapper path{stroke:#FFDEDD;}.elementor-67 .elementor-element.elementor-element-8911d83 .elementor-headline-dynamic-text{font-family:"Futura", Sans-serif;font-weight:bold;}.elementor-67 .elementor-element.elementor-element-1c49a91{font-weight:100;}@media(min-width:768px){.elementor-67 .elementor-element.elementor-element-b6ba0c4{width:33.246%;}.elementor-67 .elementor-element.elementor-element-36a18de{width:66.754%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Futura';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('Futura-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Futura';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('Futura-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Futura';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('Futura-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Futura';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('Futura-ExtraBold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
